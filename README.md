@@ -20,15 +20,6 @@ I work in programming languages such as [Java](https://en.wikipedia.org/wiki/Jav
 
 
 
-## Influences
-### Bevy
-[Centering windows in Bevy](https://github.com/bevyengine/bevy/issues/4993).  
-[Documentation for `OrthographicProjection` in Bevy](https://github.com/bevyengine/bevy/issues/5818).  
-### Rust Analyzer
-[Code completion for associated `impl` items in VSCode Rust-Analyzer](https://github.com/rust-lang/rust-analyzer/issues/11467).
-
-
-
 ## Contact / Social Media
 - [GitHub](https://github.com/CalinZBaenen)
 - [Reddit](https://www.reddit.com/user/MrKatty)
